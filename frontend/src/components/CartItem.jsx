@@ -1,4 +1,4 @@
-import { Minus, Plus, Trash } from "lucide-react";
+import { Minus, Plus, Trash } from "lucide-react";//code
 import { useCartStore } from "../stores/useCartStore";
 
 const CartItem = ({ item }) => {
