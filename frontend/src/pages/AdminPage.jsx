@@ -1,4 +1,5 @@
-import { BarChart, PlusCircle, ShoppingBasket } from "lucide-react";
+import { BarChart, PlusCircle, ShoppingBasket } from "lucide-react";//code
+
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 
