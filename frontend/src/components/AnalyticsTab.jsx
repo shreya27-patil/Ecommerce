@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion } from "framer-motion";//code
 import { useEffect, useState } from "react";
 import axios from "../lib/axios";
 import { Users, Package, ShoppingCart, DollarSign } from "lucide-react";
