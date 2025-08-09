@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect } from "react";//code
 import { useProductStore } from "../stores/useProductStore";
 import { useParams } from "react-router-dom";
 import { motion } from "framer-motion";
