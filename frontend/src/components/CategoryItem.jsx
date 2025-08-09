@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";//code
 
 const CategoryItem = ({ category }) => {
 	return (
