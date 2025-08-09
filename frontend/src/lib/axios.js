@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from "axios";//code
 
 const axiosInstance = axios.create({
 	baseURL: import.meta.mode === "development" ? "http://localhost:5000/api" : "/api",
