@@ -5,7 +5,7 @@ import { useCartStore } from "../stores/useCartStore";
 const FeaturedProducts = ({ featuredProducts }) => {
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [itemsPerPage, setItemsPerPage] = useState(4);
-
+//code
 	const { addToCart } = useCartStore();
 
 	useEffect(() => {
