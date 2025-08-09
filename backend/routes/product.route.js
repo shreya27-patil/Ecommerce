@@ -2,7 +2,7 @@ import express from "express";
 import {
 	createProduct,
 	deleteProduct,
-	getAllProducts,
+	getAllProducts,//
 	getFeaturedProducts,
 	getProductsByCategory,
 	getRecommendedProducts,
